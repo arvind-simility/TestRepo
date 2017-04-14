@@ -3,3 +3,4 @@ changing file 3
 making more changes
 it doesnt matter if you are black or white
 Its black its white
+next commit
