@@ -3,3 +3,4 @@ changes to file2 so that the forker can sync
 changes made my forker
 another line added
 I am bad
+next commit
