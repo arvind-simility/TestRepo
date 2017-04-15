@@ -4,3 +4,4 @@ Let there be a conflict!
 2nd round of conflicts!!
 bille jean!
 next commit
+this commit will be rejected
